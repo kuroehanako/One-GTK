@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=One UI
+Comment=An Materia Gtk+ theme based on Elegant Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=OneUI
+MetacityTheme=OneUI
+IconTheme=OneUI
+CursorTheme=Vimix
+ButtonLayout=close,minimize,maximize:menu
